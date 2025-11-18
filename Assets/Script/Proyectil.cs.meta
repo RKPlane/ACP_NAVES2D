@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a85a2f0295dfc0e4c8c9a271a357f099
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {fileID: 6075733907953029472, guid: 8d44b98bff7161e44b93409814ffc436, type: 3}
+  - playerRb: {instanceID: 0}
+  - attackPoint: {instanceID: 0}
+  - playerTransform: {instanceID: 0}
+  - muzzleFlash: {instanceID: 0}
+  - inputActions: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
